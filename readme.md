@@ -10,4 +10,5 @@
 8. git init - initializes a new repository
 9. git status- checks the status of changes
 10. git add- stage files for commit
+11. git commit - commmits the staged changes
  
