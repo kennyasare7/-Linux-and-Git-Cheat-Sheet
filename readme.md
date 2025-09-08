@@ -11,4 +11,5 @@
 9. git status- checks the status of changes
 10. git add- stage files for commit
 11. git commit - commmits the staged changes
+12. git branch- list, create or delete branches
  
