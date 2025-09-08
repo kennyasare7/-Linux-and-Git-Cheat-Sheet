@@ -6,4 +6,6 @@
 5. pwd - print current working directory
 6. rm - remove a file or directory
 7. mv - move or rename files or directories
+# Git Commands 
+8. git init - initializes a new repository
  
