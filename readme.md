@@ -8,4 +8,5 @@
 7. mv - move or rename files or directories
 # Git Commands 
 8. git init - initializes a new repository
+9. git status- checks the status of changes
  
