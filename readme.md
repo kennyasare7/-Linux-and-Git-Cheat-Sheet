@@ -12,4 +12,4 @@
 10. git add- stage files for commit
 11. git commit - commmits the staged changes
 12. git branch- list, create or delete branches
- 
+13. git checkout - create and switch to a new branch 
