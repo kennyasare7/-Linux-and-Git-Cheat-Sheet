@@ -14,4 +14,5 @@
 12. git branch- list, create or delete branches
 13. git checkout - create and switch to a new branch 
 14. git merge - merge a branch into the current branch 
+15 git log - Shows all commits in th ecurrent branches history
 
