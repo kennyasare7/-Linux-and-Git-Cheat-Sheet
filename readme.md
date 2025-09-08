@@ -9,4 +9,5 @@
 # Git Commands 
 8. git init - initializes a new repository
 9. git status- checks the status of changes
+10. git add- stage files for commit
  
